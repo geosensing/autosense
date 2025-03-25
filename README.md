@@ -1,12 +1,12 @@
 ## AutoSense: Automated Street Condition Assessment
 
-AutoSense is an automated system for assessing street conditions at scale using geospatial data, street-level imagery, and computer vision. The system works by:
+AutoSense is an automated system for assessing street conditions at scale using geospatial data, street-level imagery, and computer vision. It builds on [Streetsense](https://github.com/geosensing/streetsense). The system works by:
 
 1. Randomly sampling street locations from OpenStreetMap (OSM)
 2. Fetching street-level imagery from Google Street View API
 3. Analyzing the imagery using Google Cloud Vision API to assess street conditions
 
-This tool enables urban planners, transportation departments, and researchers to efficiently evaluate road infrastructure quality without extensive manual fieldwork.
+This tool enables urban planners, transportation departments, and researchers to evaluate road infrastructure quality efficiently without extensive manual fieldwork.
 
 ## Features
 
