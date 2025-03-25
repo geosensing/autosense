@@ -1,0 +1,99 @@
+image_path,has_road,pothole_count,pothole_severity,pothole_confidence,garbage_count,garbage_severity,garbage_confidence,overall_score,overall_rating
+../sv_images/mumbai/loc_2841_point_0_img_0_h173_p-26.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_3656_point_0_img_0_h163_p-18.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_2271_point_0_img_0_h145_p-9.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_2600_point_0_img_0_h206_p7.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_1411_point_0_img_0_h22_p19.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_2115_point_0_img_0_h97_p-22.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_3437_point_0_img_0_h49_p12.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_765_point_0_img_0_h189_p-1.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_167_point_0_img_0_h48_p18.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_4800_point_0_img_0_h320_p-10.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_3197_point_0_img_0_h337_p-28.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_3276_point_0_img_0_h326_p-24.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_2145_point_0_img_0_h32_p3.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_1097_point_0_img_0_h91_p9.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_577_point_0_img_0_h271_p22.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_5445_point_0_img_0_h330_p9.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_3096_point_0_img_0_h118_p-28.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_3592_point_0_img_0_h24_p22.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_315_point_0_img_0_h41_p15.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_4687_point_0_img_0_h76_p5.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_3800_point_0_img_0_h0_p1.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_3254_point_0_img_0_h222_p-26.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_2422_point_0_img_0_h92_p18.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_4963_point_0_img_0_h60_p-18.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_5273_point_0_img_0_h293_p-1.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_1769_point_0_img_0_h131_p-12.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_5485_point_0_img_0_h146_p-5.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_3101_point_0_img_0_h178_p-12.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_2486_point_0_img_0_h36_p-1.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_1039_point_0_img_0_h312_p-12.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_2077_point_0_img_0_h147_p19.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_3589_point_0_img_0_h297_p-5.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_4940_point_0_img_0_h125_p-11.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_3317_point_0_img_0_h81_p-20.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_80_point_0_img_0_h324_p-25.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_3494_point_0_img_0_h277_p-12.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_2115_point_0_img_0_h38_p-17.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_3995_point_0_img_0_h146_p-19.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_4272_point_0_img_0_h261_p-23.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_3537_point_0_img_0_h242_p-10.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_1526_point_0_img_0_h325_p-18.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_447_point_0_img_0_h97_p-16.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_4172_point_0_img_0_h123_p6.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_3475_point_0_img_0_h179_p10.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_5309_point_0_img_0_h47_p4.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_4093_point_0_img_0_h207_p-4.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_1919_point_0_img_0_h233_p15.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_2937_point_0_img_0_h270_p-15.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_79_point_0_img_0_h309_p-23.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_297_point_0_img_0_h270_p0.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_5307_point_0_img_0_h323_p-15.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_1616_point_0_img_0_h339_p9.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_2600_point_0_img_0_h4_p13.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_2881_point_0_img_0_h309_p0.jpg,False,0,0,0,1,1,0.8197828,,Not applicable - No road detected
+../sv_images/mumbai/loc_132_point_0_img_0_h304_p-4.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_3475_point_0_img_0_h297_p5.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_1032_point_0_img_0_h187_p17.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_3649_point_0_img_0_h178_p-27.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_3838_point_0_img_0_h310_p13.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_5229_point_0_img_0_h85_p17.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_2124_point_0_img_0_h50_p-6.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_1097_point_0_img_0_h52_p0.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_4855_point_0_img_0_h199_p-12.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_1533_point_0_img_0_h332_p-25.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_2302_point_0_img_0_h23_p9.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_2525_point_0_img_0_h61_p-22.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_3463_point_0_img_0_h311_p8.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_2694_point_0_img_0_h259_p25.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_4801_point_0_img_0_h248_p-23.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_2271_point_0_img_0_h331_p23.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_676_point_0_img_0_h14_p-9.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_3365_point_0_img_0_h54_p13.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_3390_point_0_img_0_h108_p11.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_3195_point_0_img_0_h266_p10.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_324_point_0_img_0_h95_p0.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_4041_point_0_img_0_h267_p21.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_23_point_0_img_0_h41_p21.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_5487_point_0_img_0_h282_p7.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_5105_point_0_img_0_h350_p0.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_4179_point_0_img_0_h336_p24.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_4500_point_0_img_0_h52_p22.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_401_point_0_img_0_h104_p8.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_4500_point_0_img_0_h137_p-15.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_1684_point_0_img_0_h241_p-24.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_2302_point_0_img_0_h243_p14.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_4572_point_0_img_0_h172_p27.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_915_point_0_img_0_h265_p17.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_296_point_0_img_0_h228_p4.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_4362_point_0_img_0_h196_p4.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_4192_point_0_img_0_h72_p-2.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_3494_point_0_img_0_h69_p-4.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_881_point_0_img_0_h128_p9.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_5308_point_0_img_0_h233_p13.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_439_point_0_img_0_h44_p20.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_3167_point_0_img_0_h110_p5.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_5457_point_0_img_0_h133_p-28.jpg,False,0,0,0,0,0,0.0,,Not applicable - No road detected
+../sv_images/mumbai/loc_2669_point_0_img_0_h254_p-29.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
+../sv_images/mumbai/loc_351_point_0_img_0_h142_p-5.jpg,True,0,0,0,0,0,0.0,10.0,Excellent
