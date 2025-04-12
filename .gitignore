@@ -4,3 +4,7 @@
 /shape_files
 scripts/google_api.txt
 /sv_images
+/coded_results/.ipynb_checkpoints
+/scripts/openai/.ipynb_checkpoints
+/coded_results/openai
+scripts/.DS_Store
